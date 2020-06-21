@@ -1,13 +1,13 @@
 [{
 	"imageUrl": "/Products/Symphony/1.jpg",
-	"imageCount":"5",
+	"imageCount": 5,
 	"price": "Rs. 8000",
 	"name": "Symphony Air Cooler",
 	"description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur",
 	"manufacturer": "OHara-Group"
 }, {
 	"imageUrl": "/Products/Usha/1.jpg",
-	"imageCount":"2",
+	"imageCount": 2,
 	"price": "Rs. 8000",
 	"name": "Symphony Air Cooler",
 	"description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur",
