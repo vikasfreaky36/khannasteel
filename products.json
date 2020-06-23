@@ -1,22 +1,36 @@
 [{
-	"imageUrl": "/Products/Symphony/",
-	"imageCount": 4,
+	"imageUrl": "/Products/Office Furniture/Book Case/",
+  	"imageType": "png",
+	"imageCount": 2,
 	"price": "Rs. 8500",
-	"name": "Symphony Air Cooler",
-	"description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur",
-	"manufacturer": "OHara-Group"
+	"name": "Book Case",
+	"description": "Best Suitable in libraries for displaying books and for approaching books easily. All the Four Compartments are Separately Locked. Its Dimension is 66X33X15 Size can be Varied as per requirement."
 }, {
-	"imageUrl": "/Products/Usha/",
+	"imageUrl": "/Products/Office Furniture/Filling Cabinets/",
+  	"imageType": "png",
 	"imageCount": 2,
 	"price": "Rs. 7500",
-	"name": "Usha Air Cooler",
-	"description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur",
-	"manufacturer": "OHara-Group"
+	"name": "Filling Cabinets",
+	"description": "These Cabinets are best suitable for holding files and working papers. All the Four Drawers are locked/Unlocked by a single Push Button. Its Dimension is 54X27X18 Solid Locks of Best Quality With Two Keys. Also available in 2 Drawers."
 },{
-	"imageUrl": "/Products/Usha/",
+	"imageUrl": "/Products/Office Furniture/Minor Almirah/",
+  	"imageType": "png",
+	"imageCount": 2,
+	"price": "Rs. 7500",
+	"name": "Minor Almirah",
+	"description": "Best Suitable for allotting in individual room. It can be used for storage of individual classroom documents. Its Dimension is 50X30X17 Also available without locker."
+},{
+	"imageUrl": "/Products/Office Furniture/Office Almirah/",
+  	"imageType": "png",
+	"imageCount": 2,
+	"price": "Rs. 7500",
+	"name": "Office Almirah",
+	"description": "Best Suitable to store Confidential data. Its Dimension is 78X36X19 Also available with locker facility."
+},{
+	"imageUrl": "/Products/Office Furniture/Steel Racks/",
+  	"imageType": "png",
 	"imageCount": 1,
-	"price": "Rs. 1500",
-	"name": "Usha Air Cooler",
-	"description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur",
-	"manufacturer": "OHara-Group"
+	"price": "Rs. 7500",
+	"name": "Steel Racks",
+	"description": "Best Suitable to Store Open Files. Its Dimension is 78X36X15"
 }]
